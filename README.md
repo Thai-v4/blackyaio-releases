@@ -2,7 +2,7 @@
 
 Ce guide est pour toi si tu installes l'app. Pas de terminal ni de fichier à modifier : tout se règle dans l'app.
 
-blackyaio surveille poliment quatre boutiques (King Jouet, JouéClub, King'Dultes, Cultura), t'alerte sur Discord et prépare ton panier. **Tu paies toujours toi-même**, dans ton navigateur. Ta copie est à toi : tes réglages, tes alertes et tes profils restent sur ton ordinateur.
+blackyaio surveille poliment trois boutiques (JouéClub, King'Dultes, La Grande Récré), te rappelle les sorties de huit autres (King Jouet, Cultura, Fnac, Auchan, Micromania, Smyths Toys, Philibert, Play-in), t'alerte sur Discord et prépare ton panier quand c'est possible. **Tu paies toujours toi-même**, dans ton navigateur. Ta copie est à toi : tes réglages, tes alertes et tes profils restent sur ton ordinateur.
 
 ## Où le télécharger
 
